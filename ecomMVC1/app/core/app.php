@@ -14,5 +14,3 @@ class App
         echo 'OK!';
     }
 }
-
-echo 'OK!';
